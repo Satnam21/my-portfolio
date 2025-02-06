@@ -20,22 +20,27 @@ const NavMobile = ({ showNav, closeNav }: Props) => {
           </a>
         </li>
         <li>
-          <a className="nav_link" href="#">
+          <a className="nav_link" href="#about">
             About
           </a>
         </li>
         <li>
-          <a className="nav_link" href="#">
+          <a className="nav_link" href="#services">
             Services
           </a>
         </li>
         <li>
+          <a className="nav_link" href="#projects">
+            Projects
+          </a>
+        </li>
+        {/* <li>
           <a className="nav_link" href="#">
             Blog
           </a>
-        </li>
+        </li> */}
         <li>
-          <a className="nav_link" href="#">
+          <a className="nav_link" href="#contact">
             Contact
           </a>
         </li>

@@ -8,16 +8,16 @@ const Skills = () => {
         <div className="col-span-3">
           <p className="heading_mini">My Skills</p>
           <h1 className="heading_primary">
-            Let's Explore Popular{" "}
+            Let&apos;s Explore Popular{" "}
             <span className="text-yellow-300">Skills</span>
           </h1>
           <p className="text-white text-[15px] mb-[1.5rem] opacity-70 mt-[1.5rem]">
-            In today’s fast-paced digital landscape, staying ahead requires
+            In today&apos;s fast-paced digital landscape, staying ahead requires
             mastering the latest and most in-demand technologies. From
             foundational front-end skills like HTML, CSS, and JavaScript to
             advanced frameworks such as React and Next.js, I specialize in
             building dynamic, responsive, and high-performance web applications.
-            Whether it’s enhancing user experience, optimizing workflows, or
+            Whether it&apos;s enhancing user experience, optimizing workflows, or
             developing scalable solutions, my expertise in modern web
             development ensures innovative and efficient digital experiences.
           </p>

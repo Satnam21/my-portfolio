@@ -42,10 +42,10 @@ const Contact = () => {
         <div>
           <p className="heading_mini">Get In Touch</p>
           <h1 className="heading_primary">
-            Let's make your <span className="text-yellow-400">Brand</span>
+            Let&apos;s make your <span className="text-yellow-400">Brand</span>
           </h1>
           <p className="text-[15px] text-white mt-[1rem] opacity-75">
-            Have a project in mind or need a skilled developer to bring your ideas to life? Let’s collaborate!
+            Have a project in mind or need a skilled developer to bring your ideas to life? Let&apos;s collaborate!
           </p>
           <h1 className="mt-[2rem] mb-[2rem] text-[30px] text-yellow-300 underline font-bold">
             <a href="tel:9517509054">+91 95175 09054</a>

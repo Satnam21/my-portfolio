@@ -6,7 +6,7 @@ const Reviews = () => {
     <div className='pt-[5rem] pb-[3rem] bg-gray-900'>
       <div className='text-center'>
         <p className='heading_mini'>Client Reviews</p>
-        <h1 className='heading_primary'>I' ve <span className='text-yellow-300'>10+</span> Clients Feedback</h1>
+        <h1 className='heading_primary'>I&apos; ve <span className='text-yellow-300'>10+</span> Clients Feedback</h1>
       </div>
       <div className='w-[80%] pt-[3rem] md:pt-5rem] mx-auto'>
         <ReviewSlider />

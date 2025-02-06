@@ -25,7 +25,7 @@ const AboutMe = () => {
               technologies like React and Next.js. Specializing in corporate,
               e-commerce, and portfolio sites, I ensure seamless user
               experiences with intuitive navigation, responsiveness, and
-              optimization to enhance your brand's online presence.
+              optimization to enhance your brand&apos;s online presence.
             </p>
             <div className="mt-[2rem] space-y-3">
               <div
@@ -37,30 +37,16 @@ const AboutMe = () => {
                 <CheckIcon className="w-[2rem] h-[2rem] text-yellow-400" />
                 <p className="text-[18px] text-white">Frontend Development</p>
               </div>
-              <div
-                // data-aos="zoom-in"
-                // data-aos-anchor-placement="top-center"
-                // data-aos-delay="400"
-                className="flex items-end space-x-4"
-              >
+
+              {/* <div className="flex items-end space-x-4">
                 <CheckIcon className="w-[2rem] h-[2rem] text-yellow-400" />
                 <p className="text-[18px] text-white">Backend Development</p>
-              </div>
-              <div
-                // data-aos="zoom-in"
-                // data-aos-anchor-placement="top-center"
-                // data-aos-delay="200"
-                className="flex items-end space-x-4"
-              >
+              </div> */}
+              <div className="flex items-end space-x-4">
                 <CheckIcon className="w-[2rem] h-[2rem] text-yellow-400" />
                 <p className="text-[18px] text-white">Web Development</p>
               </div>
-              <div
-                // data-aos="zoom-in"
-                // data-aos-anchor-placement="top-center"
-                // data-aos-delay="200"
-                className="flex items-end space-x-4"
-              >
+              <div className="flex items-end space-x-4">
                 <CheckIcon className="w-[2rem] h-[2rem] text-yellow-400" />
                 <p className="text-[18px] text-white">Mern Development</p>
               </div>

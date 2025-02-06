@@ -13,7 +13,7 @@ const Services = () => {
       <div className="pt-[5rem] w-[80%] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[3rem] items-center">
         {/* services card */}
         <div data-aos="fade-up" data-aos-anchor-placement="top-center">
-          <ServiceCard title="React Website" num="01" description="I build high-performance and scalable React websites with modern UI/UX designs, optimized for speed and responsiveness."/>
+          <ServiceCard title="React Website" num="01" description="I build high-performance, scalable React websites with modern UI/UX designs, optimized for speed, responsiveness, and seamless user experience."/>
         </div>
         <div
           data-aos="fade-up"

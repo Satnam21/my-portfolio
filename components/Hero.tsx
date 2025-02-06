@@ -4,7 +4,10 @@ import Image from "next/image";
 
 const Hero = () => {
   return (
-    <div id="home" className="w-[100vw] pt-[4vh] md:pt-[12vh] md:h-[100vh] custom-bg">
+    <div
+      id="home"
+      className="w-[100vw] pt-[4vh] md:pt-[12vh] md:h-[100vh] custom-bg"
+    >
       <div className="flex justify-center flex-col w-[80%] h-[100%] mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-[3rem] items-center">
           <div className="mt-[60px] mb-[20px]">
@@ -13,7 +16,8 @@ const Hero = () => {
             </h1>
             <div data-aos="fade-left" data-aos-delay="400">
               <h1 className="xl:text-[50px] lg:text-[40px] sm:text-[35px] text-[25px] font-semibold leading-[2.6rem] text-white">
-                Hi, I&apos;m <span className="text-yellow-300">Satnam Singh</span>
+                Hi, I&apos;m{" "}
+                <span className="text-yellow-300">Satnam Singh</span>
               </h1>
               <TypeWriteEffect />
             </div>
@@ -26,9 +30,9 @@ const Hero = () => {
 websites. Proficient in HTML, CSS and JavaScript using a modern library
 such as React JS and Next JS. */}
               Innovative Front-End Developer specializing in React.js with 2
-              years of experience in crafting dynamic and responsive websites.
-              Proficient in HTML, CSS, and JavaScript, leveraging modern
-              frameworks like React.js and Next.js to build high-performance,
+              years of experience in building dynamic and responsive websites.
+              Proficient in HTML, CSS, and JavaScript, with expertise in modern
+              frameworks like React.js and Next.js to develop high-performance,
               user-centric web applications.
             </p>
             <div className="mt-[2rem] flex items-center space-x-6">

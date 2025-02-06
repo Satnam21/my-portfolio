@@ -75,7 +75,7 @@ such as React JS and Next JS. */}
             <Image
               src="/Images/banner-image.png"
               alt="hero"
-              width={400}
+              width={520}
               height={400}
               className="object-contain"
             />

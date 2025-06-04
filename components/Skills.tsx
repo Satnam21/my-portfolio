@@ -17,8 +17,8 @@ const Skills = () => {
             foundational front-end skills like HTML, CSS, and JavaScript to
             advanced frameworks such as React and Next.js, I specialize in
             building dynamic, responsive, and high-performance web applications.
-            Whether it&apos;s enhancing user experience, optimizing workflows, or
-            developing scalable solutions, my expertise in modern web
+            Whether it&apos;s enhancing user experience, optimizing workflows,
+            or developing scalable solutions, my expertise in modern web
             development ensures innovative and efficient digital experiences.
           </p>
           {/* <button
@@ -59,12 +59,48 @@ const Skills = () => {
             <div
               data-aos="flip-left"
               data-aos-anchor-placement="top-center"
+              data-aos-delay="1200"
+            >
+              <SkillCard
+                title="MongoDB"
+                image="/images/mongo.svg"
+                percent="50%"
+              />
+            </div>
+
+            <div
+              data-aos="flip-left"
+              data-aos-anchor-placement="top-center"
+              data-aos-delay="1200"
+            >
+              <SkillCard
+                title="Express js"
+                image="/images/mongo.svg"
+                percent="50%"
+              />
+            </div>
+
+            <div
+              data-aos="flip-left"
+              data-aos-anchor-placement="top-center"
               data-aos-delay="600"
             >
               <SkillCard
                 title="React"
                 image="/images/react.svg"
                 percent="75%"
+              />
+            </div>
+
+            <div
+              data-aos="flip-left"
+              data-aos-anchor-placement="top-center"
+              data-aos-delay="1000"
+            >
+              <SkillCard
+                title="Node js"
+                image="/images/node.svg"
+                percent="40%"
               />
             </div>
 
@@ -80,28 +116,6 @@ const Skills = () => {
               />
             </div>
 
-            <div
-              data-aos="flip-left"
-              data-aos-anchor-placement="top-center"
-              data-aos-delay="1000"
-            >
-              <SkillCard
-                title="Node js"
-                image="/images/node.svg"
-                percent="40%"
-              />
-            </div>
-            <div
-              data-aos="flip-left"
-              data-aos-anchor-placement="top-center"
-              data-aos-delay="1200"
-            >
-              <SkillCard
-                title="MongoDB"
-                image="/images/mongo.svg"
-                percent="50%"
-              />
-            </div>
             <div
               data-aos="flip-left"
               data-aos-anchor-placement="top-center"

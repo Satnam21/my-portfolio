@@ -10,8 +10,8 @@ const TypeWriteEffect = () => {
         1000, // wait 1s before replacing "Mice" with "Hamsters"
         'a Next js Developer',
         1000,
-        // 'a Mern Stack Developer',
-        // 1000,
+        'a Mern Stack Developer',
+        1000,
         'a Designer',
         1000
       ]}

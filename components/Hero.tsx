@@ -26,14 +26,11 @@ const Hero = () => {
               data-aos-delay="800"
               className="mt-[1.2rem] text-[15px] md:text-[17px]  text-[#c4cfde]"
             >
-              {/* Innovative front-end developer(React JS) with 2 years of experience in building
-websites. Proficient in HTML, CSS and JavaScript using a modern library
-such as React JS and Next JS. */}
-              Innovative Front-End Developer specializing in React.js with 2
-              years of experience in building dynamic and responsive websites.
-              Proficient in HTML, CSS, and JavaScript, with expertise in modern
-              frameworks like React.js and Next.js to develop high-performance,
-              user-centric web applications.
+              I'm a Front-End Developer with 2+ years of experience building
+              scalable, high-performance, and responsive web applications using
+              React.js and Next.js. I focus on clean UI, optimized performance,
+              and user-centric experiences, with a strong understanding of
+              backend technologies like Node.js, Express, and MongoDB.
             </p>
             <div className="mt-[2rem] flex items-center space-x-6">
               {/* <button className="relative flex h-[50px] w-40 items-center justify-center font-semibold overflow-hidden bg-red-500 text-white

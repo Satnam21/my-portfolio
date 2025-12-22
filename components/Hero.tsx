@@ -26,7 +26,7 @@ const Hero = () => {
               data-aos-delay="800"
               className="mt-[1.2rem] text-[15px] md:text-[17px]  text-[#c4cfde]"
             >
-              I'm a Front-End Developer with 2+ years of experience building
+              I&apos;m a Front-End Developer with 2+ years of experience building
               scalable, high-performance, and responsive web applications using
               React.js and Next.js. I focus on clean UI, optimized performance,
               and user-centric experiences, with a strong understanding of

@@ -17,4 +17,4 @@ const SkillCard = ({title, image, percent}: Props) => {
   )
 }
 
-export default SkillCard
+export default SkillCard;

@@ -25,7 +25,29 @@ const Project = () => {
         image="/images/p2.png"
         link="/"
       />
-      {/* <ProjectCard title="Fullstack Food Delivery Webapp" tech1="React js" tech2="Next js" tech3="Node js" tech4="MongoDB" image="/images/p4.png" /> */}
+
+      <ProjectCard
+        title="Sobeys"
+        tech1="React js"
+        tech2="Next js"
+        tech3="GRAPHQL"
+        tech4="Typescript"
+        image="/images/sobeys.jpg"
+        description="Contributed to a large-scale enterprise web application for Sobeys, focusing on building high-performance, scalable, and user-centric interfaces using modern front-end practices. Implemented GraphQL APIs to efficiently fetch and manage data, enhanced UI design, and ensured ongoing design updates and application maintenance"
+        link="https://sobeys.com/"
+      />
+
+      <ProjectCard
+        title="Sobeys"
+        tech1="React js"
+        tech2="Next js"
+        tech3="GRAPHQL"
+        tech4="Typescript"
+        image="/images/safeway.jpg"
+        description="Developed and maintained a large-scale enterprise web application for Sobeys, creating high-performance, scalable, and user-focused interfaces. Implemented GraphQL APIs for efficient data fetching, enhanced UI design, and ensured continuous updates and application maintenance."
+        link="https://www.safeway.com/"
+      />
+
       <ProjectCard
         title="Unionville College Website"
         description="Unionville College (UC), formerly known as Unionville Montessori

@@ -41,7 +41,7 @@ const Skills = () => {
               data-aos-anchor-placement="top-center"
               data-aos-delay="200"
             >
-              <SkillCard title="CSS" image="/images/css.svg" percent="85%" />
+              <SkillCard title="CSS" image="/images/css.svg" percent="90%" />
             </div>
 
             <div
@@ -88,7 +88,33 @@ const Skills = () => {
               <SkillCard
                 title="React"
                 image="/images/react.svg"
+                percent="80%"
+              />
+            </div>
+
+              <div
+              data-aos="flip-left"
+              data-aos-anchor-placement="top-center"
+              data-aos-delay="600"
+            >
+              <SkillCard
+                title="Redux"
+                image="/images/redux.svg"
+                percent="70%"
+              />
+            </div>
+
+
+             <div
+              data-aos="flip-left"
+              data-aos-anchor-placement="top-center"
+              data-aos-delay="600"
+            >
+              <SkillCard
+                title="Nextjs"
+                image="/images/next.svg"
                 percent="75%"
+                
               />
             </div>
 
@@ -100,7 +126,7 @@ const Skills = () => {
               <SkillCard
                 title="Node js"
                 image="/images/node.svg"
-                percent="40%"
+                percent="50%"
               />
             </div>
 
@@ -116,7 +142,7 @@ const Skills = () => {
               />
             </div>
 
-            <div
+            {/* <div
               data-aos="flip-left"
               data-aos-anchor-placement="top-center"
               data-aos-delay="1400"
@@ -124,9 +150,9 @@ const Skills = () => {
               <SkillCard
                 title="Python"
                 image="/images/python.svg"
-                percent="40%"
+                percent="50%"
               />
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

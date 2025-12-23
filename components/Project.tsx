@@ -23,7 +23,18 @@ const Project = () => {
         tech3="Talwind"
         tech4="Typescript"
         image="/images/p2.png"
-        link="/"
+        link="https://satnam-portfolio.netlify.app/"
+      />
+
+      <ProjectCard
+        title="TyrePro Website"
+        description="Developed a modern, responsive, and user-centric automotive service website for TyrePro, focusing on a clean UI, intuitive navigation, and performance-optimized pages using modern front-end technologies. Integrated APIs to dynamically fetch and display product data, implemented reusable components and responsive layouts, and ensured SEO-friendly structures to deliver a seamless and consistent user experience across all devices."
+        tech1="React.js"
+        tech2="Next.js"
+        tech3="Tailwind"
+        tech4="TypeScript"
+        image="/images/tryepro.jpg"
+        link="https://tyrepro.ca/"
       />
 
       <ProjectCard

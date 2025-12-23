@@ -52,8 +52,8 @@ const Hero = () => {
               </a>
 
               <a
-                href="/SATNAM-SINGH-UPDATED-CV.pdf" // Replace with your actual file path
-                download="SATNAM-SINGH-UPDATED-CV.pdf"
+                href="/Satnam-Singh-Reactjs_Devloper_2Year" // Replace with your actual file path
+                download="Satnam-Singh-Reactjs_Devloper_2Year"
               >
                 <button
                   data-aos="zoom-out"
@@ -78,7 +78,7 @@ const Hero = () => {
               alt="hero"
               width={520}
               height={400}
-              className="object-contain"
+              className="object-contain h-auto"
             />
           </div>
         </div>
